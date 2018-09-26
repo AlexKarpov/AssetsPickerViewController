@@ -11,7 +11,6 @@ import Photos
 import AssetsPickerViewController
 import TinyLog
 import PureLayout
-import Dimmer
 
 private let imageSize = CGSize(width: 80, height: 80)
 
